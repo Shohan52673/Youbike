@@ -31,7 +31,7 @@ onMounted(() => {
               class="logo"
               src="https://flowbite.com/docs/images/logo.svg"
               width="20"
-              height="22"
+              height="20"
             />
             <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
               YouBike範本
